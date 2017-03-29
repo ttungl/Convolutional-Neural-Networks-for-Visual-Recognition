@@ -5,4 +5,8 @@
 
 [Reddit discussion](https://www.reddit.com/r/cs231n/)
 
-[Course Note](http://cs231n.github.io/)
+[Course Notes](http://cs231n.github.io/)
+
+[Course Projects](http://cs231n.stanford.edu/project.html)
+
+
