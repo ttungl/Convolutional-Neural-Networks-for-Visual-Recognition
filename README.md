@@ -4,3 +4,5 @@
 [Lectures videos](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
 
 [Reddit discussion](https://www.reddit.com/r/cs231n/)
+
+[Course Note](http://cs231n.github.io/)
