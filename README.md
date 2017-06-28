@@ -8,5 +8,5 @@
 [[Course Notes](http://cs231n.github.io/)] 
 [[Course Projects](http://cs231n.stanford.edu/project.html)]
 [[Python 101](http://cs231n.github.io/python-numpy-tutorial/)]
-
+[[Andrej's Notes](http://karpathy.github.io/)] 
 ## Introduction
